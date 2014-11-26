@@ -33,7 +33,7 @@ function handleText(textNode)
 
 	v = v.replace(/\bMeta(?!l)/g, "Meat");
 	v = v.replace(/\bmeta(?!l)/g, "meat");
-	v = v.replace(/\bMETA(?!l)/g, "MEAT");
+	v = v.replace(/\bMETA(?!L)/g, "MEAT");
 	
 	textNode.nodeValue = v;
 }
