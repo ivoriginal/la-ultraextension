@@ -6,10 +6,10 @@ function walk(node)
 	// http://is.gd/mwZp7E
 	
 	var child, next;
-	
-	if (node.tagName.toLowerCase() == 'input' || node.tagName.toLowerCase() == 'textarea'
-	    || node.classList.indexOf('ace_editor') > -1) {
-		return;
+
+	if (node.nodeName.toLowerCase() == 'input' || node.nodeName.toLowerCase() == 'textarea'
+	    || (node.classList && node.classList.contains('ace_editor'))) {
+		 return;
 	}
 
 	switch ( node.nodeType )  

@@ -1,9 +1,9 @@
 {
 	"manifest_version": 2,
 	"name": "Metameater",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Replaces the prefix 'meta' with 'meat'.",
-	"developer": { "name": "Vague Rant" },
+	"author": { "name": "Vague Rant" },
 	"icons": {  "48": "icon48.png",
 				"128": "icon128.png" },
 	"content_scripts": 
