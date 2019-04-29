@@ -1,12 +1,10 @@
 {
 	"manifest_version": 2,
-	"name": "Metameater",
-	"version": "1.0.3",
-	"description": "Replaces the prefix 'meta' with 'meat'.",
-	"author": { "name": "Vague Rant" },
-	"icons": {  "48": "icon48.png",
-				"128": "icon128.png" },
-	"content_scripts": 
+	"name": "La ultraextensión",
+	"version": "1.0",
+	"description": "Las cosas por su nombre. Con esta extensión verás el nombre de 'ese' partido por 'la ultraderecha'",
+	"author": { "name": "Pau Valiente" },
+	"content_scripts":
 	[
 		{
 			"matches": ["*://*/*"],
@@ -15,4 +13,3 @@
 		}
 	]
 }
-
