@@ -5,6 +5,6 @@ En las elecciones generales españolas de Abril de 2019 un partido de la ultrade
 
 Ahora, desde la oposición van a tener aún más voz, así que para no normalizar la ultraderecha asociándola a tres letras como si fuera un partido más, he creado esta extensión que modifica el nombre de ese partido por "la ultraderecha".
 
-
+![ejemplo](https://user-images.githubusercontent.com/3023717/56891225-127a3a80-6a7c-11e9-9718-7bc3f35d0c8f.gif)
 
 **Nota:** La extensión parece no funcionar en el nuevo twitter, si alguien sabe cómo arreglarlo, estaré encantado de modificarla.
