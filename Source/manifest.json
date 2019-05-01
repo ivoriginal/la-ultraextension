@@ -4,6 +4,8 @@
 	"version": "1.0",
 	"description": "Las cosas por su nombre. Con esta extensión verás el nombre de 'ese' partido por 'la ultraderecha'",
 	"author": { "name": "Pau Valiente" },
+	"icons": {  "48": "icon48.png",
+	      "128": "icon128.png" },
 	"content_scripts":
 	[
 		{
