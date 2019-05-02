@@ -36,6 +36,7 @@ function handleText(textNode)
 {
 	var v = textNode.nodeValue;
 
+	v = v.replace(/\bVox Media\b/g, "Vox Media");
 	v = v.replace(/\bVox\b/g, "la ultraderecha");
 	v = v.replace(/\bvox\b/g, "la ultraderecha");
 	v = v.replace(/\bVOX\b/g, "la ultraderecha");
