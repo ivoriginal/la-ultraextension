@@ -5,7 +5,7 @@ En las elecciones generales españolas de Abril de 2019 un partido de la ultrade
 
 Ahora, desde la oposición van a tener aún más voz, así que para no normalizar la ultraderecha asociándola a tres letras como si fuera un partido más, he creado esta extensión que modifica el nombre de ese partido por "la ultraderecha".
 
-[![descarga-la-ultraextension](https://user-images.githubusercontent.com/3023717/57073073-3a69d800-6ce0-11e9-9e92-209e1fb7d9c6.png)](https://github.com/paucc/la-ultraextension/raw/master/Source.crx)
+[![descarga-la-ultraextension](https://user-images.githubusercontent.com/3023717/57367027-886f5780-7188-11e9-93f3-4281fb752eef.png)](https://chrome.google.com/webstore/detail/la-ultraextensi%C3%B3n/bapgmbccbnknhhebcnilffngobjcbjkl)  [![descarga-la-ultraextension](https://user-images.githubusercontent.com/3023717/57367196-d8e6b500-7188-11e9-9741-7800a0ba9b8b.png)](https://github.com/paucc/la-ultraextension/raw/master/Source.crx)
 
 ![ejemplo](https://user-images.githubusercontent.com/3023717/56891225-127a3a80-6a7c-11e9-9718-7bc3f35d0c8f.gif)
 
