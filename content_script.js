@@ -36,14 +36,15 @@ function handleText(textNode)
 {
 	var v = textNode.nodeValue;
 
-	v = v.replace(/\bVox\b/g, "la ultraderecha");
-	v = v.replace(/\bvox\b/g, "la ultraderecha");
-	v = v.replace(/\bVOX\b/g, "la ultraderecha");
-	v = v.replace(/\bVOx\b/g, "la ultraderecha");
-	v = v.replace(/\bV0X\b/g, "la ultraderecha");
-	v = v.replace(/\bv0x\b/g, "la ultraderecha");
-	v = v.replace(/\bV0x\b/g, "la ultraderecha");
-	v = v.replace(/\bla ultraderecha Media\b/g, "Vox Media");
+	v = v.replace(/\bVox\b/g, "los putos nazis");
+	v = v.replace(/\bvox\b/g, "los putos nazis");
+	v = v.replace(/\bVOX\b/g, "los putos nazis");
+	v = v.replace(/\bVOx\b/g, "los putos nazis");
+	v = v.replace(/\bV0X\b/g, "los putos nazis");
+	v = v.replace(/\bv0x\b/g, "los putos nazis");
+	v = v.replace(/\bV0x\b/g, "los putos nazis");
+	v = v.replace(/\blos putos nazis Media\b/g, "Vox Media");
+	v = v.replace(/\bvoxespana\b/g, "losputosnazisespaña");
 
 	textNode.nodeValue = v;
 }

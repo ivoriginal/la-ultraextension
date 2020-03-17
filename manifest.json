@@ -1,9 +1,9 @@
 {
 	"manifest_version": 2,
-	"name": "La ultraextensión",
+	"name": "los putos nazis",
 	"version": "1.1",
-	"description": "Las cosas por su nombre. Con esta extensión verás el nombre de 'ese' partido por 'la ultraderecha'",
-	"author": { "name": "Pau Valiente" },
+	"description": "Cambia vox por los putos nazis",
+	"author": { "name": "Fork de Pau Valiente editado por @ivoriginal" },
 	"icons": {  "48": "icon48.png",
 	      "128": "icon128.png" },
 	"content_scripts":
